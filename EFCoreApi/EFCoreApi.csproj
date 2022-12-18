@@ -24,6 +24,7 @@
     <ItemGroup>
       <ProjectReference Include="..\EFDataAccess\EFDataAccess.csproj" />
       <ProjectReference Include="..\EFIdentityFramework\EFIdentityFramework.csproj" />
+      <ProjectReference Include="..\Integration\Integration.csproj" />
     </ItemGroup>
 
 </Project>

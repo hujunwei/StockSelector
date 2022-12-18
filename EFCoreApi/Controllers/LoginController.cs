@@ -1,7 +1,6 @@
 using System.Security.Authentication;
 using System.Security.Claims;
 using AutoMapper;
-using EFCoreApi.DTOs;
 using EFCoreApi.Infra.Authentication;
 using EFIdentityFramework.Model;
 using Microsoft.AspNetCore.Identity;
